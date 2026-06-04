@@ -54,3 +54,15 @@ A Virtual Private Cloud (VPC) is a logically isolated virtual network within a c
 ## Conclusion
 
 A VPC provides a secure and scalable networking environment for cloud resources.
+
+
+
+## Screenshots
+
+### Repository Overview
+
+![Repository Screenshot](screenshots/repo-screenshot.png)
+
+### Architecture Diagram
+
+![Architecture Screenshot](screenshots/architecture-screenshot.png)
