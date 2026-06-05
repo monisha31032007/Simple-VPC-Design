@@ -1,5 +1,15 @@
 # Simple VPC Design
 
+## Intern Information
+
+**Name:** Monisha S  
+**Intern ID:** CITS2080  
+**Domain:** Cloud Computing  
+
+## Overview
+
+Simple VPC Design demonstrates the design and implementation of a Virtual Private Cloud (VPC). The project focuses on creating secure network environments, configuring subnets, routing traffic, and understanding cloud networking concepts.
+
 ## Introduction
 
 A Virtual Private Cloud (VPC) is a logically isolated virtual network within a cloud provider. It enables users to launch and manage cloud resources in a secure and controlled environment.
